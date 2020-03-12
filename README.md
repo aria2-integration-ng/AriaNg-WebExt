@@ -20,5 +20,7 @@ Any way you like.
 ## Thanks to
 
 https://github.com/mayswind/AriaNg
+
 https://github.com/mozilla/webextension-polyfill
+
 https://github.com/webextension-toolbox/webextension-toolbox

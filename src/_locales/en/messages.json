@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "AriaNg WebExt",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "AriaNg Ext",
+    "description": "The short version of the app's name."
+  },
+  "appDescription": {
+    "message": "an extension for running AriaNg in your browser",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "AriaNg WebExt",
+    "description": "The title of the browser action button"
+  }
+}

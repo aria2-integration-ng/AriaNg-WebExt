@@ -4,9 +4,8 @@ This extension aims to run [AriaNg](https://github.com/mayswind/AriaNg) in your 
 
 ## Download
 
-Firefox: [AriaNg WebExt](https://addons.mozilla.org/en-GB/firefox/addon/ariang-webext/)
-
-Chrome, Edge and other chromium  based browser: [releases](https://github.com/aria2-integration-ng/AriaNg-WebExt/releases)
+* Firefox: [AriaNg WebExt](https://addons.mozilla.org/en-GB/firefox/addon/ariang-webext/)
+* Chrome, Edge and other chromium  based browser: [releases](https://github.com/aria2-integration-ng/AriaNg-WebExt/releases)
 
 ## Todo
 

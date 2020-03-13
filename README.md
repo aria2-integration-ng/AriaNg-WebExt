@@ -2,9 +2,13 @@
 
 This extension aims to run [AriaNg](https://github.com/mayswind/AriaNg) in your borwser locally.
 
+## Download
+
+Firefox: [AriaNg WebExt](https://addons.mozilla.org/en-GB/firefox/addon/ariang-webext/)
+Chrome, Edge and other chromium  based browser: [releases](https://github.com/aria2-integration-ng/AriaNg-WebExt/releases)
+
 ## Todo
 
-* Publish to [AMO](https://addons.mozilla.org/) and [Chrome Web Store](https://chrome.google.com/webstore/)
 * bowser sync for AriaNg settings
 * open AriaNg in new tab
 * open AriaNg in a seperate window
@@ -15,7 +19,7 @@ Just pack the src folder using *zip* format. If you are using Firefox, change th
 
 ## How to contribute
 
-Any way you like.
+Any way you like. Any questions are welcome.
 
 ## Thanks to
 
